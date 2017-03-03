@@ -16,3 +16,15 @@ Version:        0.1.0
 .white{
     color: white;
 }
+
+/* form builder */
+
+.peThemeContactForm .controls{
+    margin-left: 0;
+}
+
+.peThemeContactForm .control-label {
+    font-size: 15px;
+    color: #444;
+    width: 80px;
+}
